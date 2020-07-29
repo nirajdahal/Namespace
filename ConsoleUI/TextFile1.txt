@@ -1,0 +1,6 @@
+﻿ii> Namespace 
+
+- Namespace helps to know how our projects and its folders has been organized
+- System.Collection.Generic => System is namespace , Collection is Folder , Generic is subfolder
+
+*Prop-tip - Use Namespaces to organize your application logically
